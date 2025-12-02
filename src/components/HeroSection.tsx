@@ -23,7 +23,7 @@ const HeroSection = () => {
             <div className="inline-block mb-6">
               <div className="speech-bubble">
                 <span className="font-body font-bold text-sm uppercase tracking-wider">
-                  New Collection 2024
+                  New Collection 2025
                 </span>
               </div>
             </div>
